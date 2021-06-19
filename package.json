@@ -1,9 +1,9 @@
 {
   "name": "fryboard",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo hello world"
+    "test": "electron ."
   },
   "author": "Michael Arakilian",
   "license": "MIT",

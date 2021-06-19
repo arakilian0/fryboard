@@ -1,0 +1,10 @@
+{
+  "name": "fryboard",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello world"
+  },
+  "author": "Michael Arakilian",
+  "license": "MIT"
+}
